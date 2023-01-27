@@ -1,5 +1,6 @@
 import React from "react";
-import "./style.css";
+import './App.css';
+import DisplayItems from './components/DisplayItems';
 
 const App =()=>{
   return(
