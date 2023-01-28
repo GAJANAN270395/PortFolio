@@ -1,8 +1,8 @@
 import React from 'react'
 import "./ContactMe.css"
-import github from "../assets/images/github.png"
-import Leetcode from "../assets/images/leetcode.png"
-import LinkedIn from "../assets/images/linkedIn.png"
+// import github from "../assets/images/github.png"
+// import Leetcode from "../assets/images/leetcode.png"
+// import LinkedIn from "../assets/images/linkedIn.png"
 
 const ContactMe = () => {
 
@@ -11,19 +11,19 @@ const ContactMe = () => {
             id: 1,
             name: "LinkedIn",
             link: "https://www.linkedin.com/in/gajanan-kendre-136642136/",
-            image: LinkedIn
+            // image: LinkedIn
         },
         {
             id: 2,
             name: "Github",
             link: "https://github.com/GAJANAN270395",
-            image: github
+            // image: github
         },
         {
             id: 3,
             name: "Leetcode",
             link: "https://leetcode.com/Gajanan27/",
-            image: Leetcode
+            // image: Leetcode
         }
     ]
 
