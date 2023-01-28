@@ -1,5 +1,6 @@
 import React from 'react';
 import "./home.css";
+import myPic from "../assets/images/Gajanan.jpg"
 const Home = () => {
   return (
     <div className="homeDiv">
