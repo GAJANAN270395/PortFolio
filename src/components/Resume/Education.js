@@ -26,7 +26,7 @@ const Education = () => {
                 </div>
             </div>
             <div className='education-list-item'>
-                <h3 className='education-heading'>🟠 Sri Shankara Vidyalaya <hr /></h3>
+          <h3 className='education-heading'>🟠 Narsamata High School <hr /></h3>
                 <div className='education-details'>
                     <p className='education-type'>
                         Matriculation (10th) <br />
@@ -38,5 +38,4 @@ const Education = () => {
         </div>
     )
 }
-
 export default Education
