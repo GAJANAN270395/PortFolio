@@ -5,7 +5,7 @@ import "./About.css"
 const About = () =>{
   return(
     <div className='aboutOuterDiv'>
-    <h1 className='heading'>&nbsp; About &nbsp; <hr /></h1>
+    <h1 className='heading'> &nbsp; About &nbsp; <hr /></h1>
     <div className='aboutDiv'>
         <div className='aboutLeft'>
             <img src="https://stackblitz.com/files/react-7uewqi/github/GAJANAN270395/PortFolio/main/src/assets/images/Gajanan1.jpg" alt="myPic"></img>

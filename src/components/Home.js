@@ -6,7 +6,7 @@ const Home = () => {
     <div className="homeDiv">
       <h1 className="heading">
         &nbsp; Home &nbsp;
-        <hr />
+        <hr/>
       </h1>
       <div className="homeInner">
         <div className="homeLeft">
