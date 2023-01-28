@@ -1,6 +1,6 @@
 import React from 'react';
 import "./home.css";
-import myPic from "../assets/images/Gajanan.jpg"
+// import myPic from "../assets/images/Gajanan.jpg"
 const Home = () => {
   return (
     <div className="homeDiv">
@@ -37,7 +37,7 @@ const Home = () => {
           </div>
         </div>
         <div className="homeRight">
-          <img src={myPic} alt="MY PIC"></img>
+          <img  alt="MY PIC"></img>
         </div>
       </div>
     </div>

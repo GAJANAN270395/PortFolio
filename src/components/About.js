@@ -1,5 +1,6 @@
 import React from 'react'
 import "./About.css"
+import myPic2 from "../assets/images/Gajanan1.jpg"
 
 const About = () =>{
   return(
@@ -7,7 +8,7 @@ const About = () =>{
     <h1 className='heading'>&nbsp; About &nbsp; <hr /></h1>
     <div className='aboutDiv'>
         <div className='aboutLeft'>
-            <img  alt="myPic"></img>
+            <img src={myPic2} alt="myPic"></img>
         </div>
         <div className='aboutRight'>
             <div className='about-innerText'>
@@ -34,3 +35,4 @@ const About = () =>{
 </div>
   )
 }
+export default About;

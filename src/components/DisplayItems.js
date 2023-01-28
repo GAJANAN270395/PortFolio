@@ -1,4 +1,5 @@
 import React from 'react'
+import About from './About'
 import Home from './Home'
 const DisplayItems = () => {
   return (
@@ -6,7 +7,9 @@ const DisplayItems = () => {
           <div className='displayItem' id='home'>
               <Home />
           </div>
-          
+          <div className='displayItem' id='about'>
+                <About />
+            </div>
       </div>
   )
 }
