@@ -1,5 +1,5 @@
 import React from 'react';
-import "./home.css";
+import './home.css';
 // import myPic from "../assets/images/Gajanan.jpg"
 const Home = () => {
   return (
@@ -37,7 +37,9 @@ const Home = () => {
           </div>
         </div>
         <div className="homeRight">
-          <img  alt="MY PIC"></img>
+          <img
+            src="https://stackblitz.com/files/react-7uewqi/github/GAJANAN270395/PortFolio/main/src/assets/images/Gajanan.jpg"
+          ></img>
         </div>
       </div>
     </div>

@@ -11,19 +11,19 @@ const ContactMe = () => {
             id: 1,
             name: "LinkedIn",
             link: "https://www.linkedin.com/in/gajanan-kendre-136642136/",
-            // image: LinkedIn
+             image:"https://stackblitz.com/files/react-7uewqi/github/GAJANAN270395/PortFolio/main/src/assets/images/linkedIn.png"
         },
         {
             id: 2,
             name: "Github",
             link: "https://github.com/GAJANAN270395",
-            // image: github
+            image: "https://stackblitz.com/files/react-7uewqi/github/GAJANAN270395/PortFolio/main/src/assets/images/github.png"
         },
         {
             id: 3,
             name: "Leetcode",
             link: "https://leetcode.com/Gajanan27/",
-            // image: Leetcode
+             image: "https://stackblitz.com/files/react-7uewqi/github/GAJANAN270395/PortFolio/main/src/assets/images/leetcode.png"
         }
     ]
 

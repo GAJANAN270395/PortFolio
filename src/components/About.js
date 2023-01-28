@@ -8,7 +8,7 @@ const About = () =>{
     <h1 className='heading'>&nbsp; About &nbsp; <hr /></h1>
     <div className='aboutDiv'>
         <div className='aboutLeft'>
-            <img alt="myPic"></img>
+            <img src="https://stackblitz.com/files/react-7uewqi/github/GAJANAN270395/PortFolio/main/src/assets/images/Gajanan1.jpg" alt="myPic"></img>
         </div>
         <div className='aboutRight'>
             <div className='about-innerText'>

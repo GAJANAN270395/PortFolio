@@ -15,6 +15,7 @@
   grid-template-columns: auto auto auto;
   justify-content: space-around;
   overflow: auto;
+  color: white;
 }
 
 .projectItem a {
