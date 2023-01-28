@@ -2,6 +2,7 @@ import React from 'react'
 import About from './About'
 import ContactMe from './ContactMe'
 import Home from './Home'
+import Projects from './Projects'
 import Resume from '../components/Resume/Resume'
 const DisplayItems = () => {
   return (
@@ -14,6 +15,9 @@ const DisplayItems = () => {
             </div>
             <div className='displayItem'>
                 <Resume />
+            </div>
+            <div className='displayItem' id='projects'>
+                <Projects />
             </div>
             <div className='displayItem' id='contactMe'>
                 <ContactMe />
