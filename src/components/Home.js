@@ -18,7 +18,7 @@ const Home = () => {
             <span>a</span>
             <span>n</span>
             <span>a</span>
-            <span>n</span>
+            <span>n</span>&nbsp;
             <span>K</span>
             <span>e</span>
             <span>n</span>
